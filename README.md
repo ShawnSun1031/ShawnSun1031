@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 👩‍⚖️  Graduating from National Taiwan University
 
-👩‍💻  Infrastructure Designer (Git, k8s, docker, CICD)
+👩‍💻  Infrastructure Designer (Git, k8s, docker, CICD, SQL)
 
-👩‍💻  Backend Designer (FastAPI)
+👩‍💻  Backend Designer (Python w/ FastAPI)
 
 🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
