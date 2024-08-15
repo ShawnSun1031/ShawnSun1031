@@ -60,6 +60,7 @@ My master's thesis, titled “Accelerating Monte Carlo Simulation through Surrog
 - JavaScript, TypeScript
 - React + FastAPI
 - Python, Cython
+- Verilog
 - C/C++
 - MATLAB
 
